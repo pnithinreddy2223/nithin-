@@ -1,5 +1,4 @@
-# nithin-
-atm machine
+
 class ATM:
   def __init__(self):
     self.pin=''
